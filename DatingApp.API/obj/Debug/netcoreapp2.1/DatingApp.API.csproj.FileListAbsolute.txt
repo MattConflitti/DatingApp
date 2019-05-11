@@ -1,0 +1,14 @@
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.deps.json
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.json
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.dev.json
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.pdb
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cache
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cs
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfoInputs.cache
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfo.cs
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/matt/Documents/Udemy/ASPNET/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
